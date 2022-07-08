@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Joe;Celada;;;
+FN: Joseph Celada 
+ORG:VIP Rides;
+TITLE:Luxury Transportation
+EMAIL;type=INTERNET;type=WORK;type=pref:Joseph Celada
+TEL;type=WORK;type=VOICE:3462886220
+item1.ADR;type=WORK;type=pref:;;Houston Texas;;;138577;United States
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=https://www.instagram.com/cg_jou/
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
